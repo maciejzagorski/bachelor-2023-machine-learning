@@ -1,6 +1,5 @@
 _[(English version below)](#machine-learning)_
 
-
 # Uczenie maszynowe
 
 _(Raporty przygotowane w 2023 r. w trakcie kursu z zakresu uczenia maszynowego, w ramach studiów inżynierskich na
